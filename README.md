@@ -44,7 +44,7 @@ Searches files and folders in Google Drive using connected account.
 - Google Cloud OAuth credentials (for Drive access)
 - Internet connection
 
-![image alt]()
+![image alt](https://github.com/BasitMunir16/Ai-drive-assistant-/blob/6bb42dfa629fc90fc1381cf16265247b8a7807bd/Screenshot%202026-06-03%20192945.png)
 ---
 
 ## 🔐 Setup Instructions
