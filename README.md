@@ -44,6 +44,7 @@ Searches files and folders in Google Drive using connected account.
 - Google Cloud OAuth credentials (for Drive access)
 - Internet connection
 
+![image alt]()
 ---
 
 ## 🔐 Setup Instructions
